@@ -1,0 +1,5 @@
+theme = "hugo-book"
+baseURL = "https://blog.dvu25519.rip/"
+languageCode = "en-us"
+title = "There Is A Blog That Never Goes Out"
+theme = "hugo-book"
